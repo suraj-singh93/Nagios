@@ -2,7 +2,7 @@
 
 Nagios monitors your entire IT infrastructure to ensure systems, applications, services, and business processes are functioning properly. In the event of a failure, Nagios can alert technical staff of the problem, allowing them to begin remediation processes before outages affect business processes, end-users, or customers.
 
-### sample configuration files:
+### sample configuration:
 
 
   1. host/host-group
@@ -68,4 +68,7 @@ Nagios monitors your entire IT infrastructure to ensure systems, applications, s
 
               # commands files
               cfg_dir=/usr/local/nagios/etc/commands
+              
+  Get Repo: https://github.com/suraj-singh93/Nagios
+  
               
