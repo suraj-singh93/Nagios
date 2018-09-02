@@ -69,6 +69,6 @@ Nagios monitors your entire IT infrastructure to ensure systems, applications, s
               # commands files
               cfg_dir=/usr/local/nagios/etc/commands
               
-  Get Repo: https://github.com/suraj-singh93/Nagios
+
   
               
